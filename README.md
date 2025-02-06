@@ -115,8 +115,8 @@ This project also showcases my ability to:
 
 If you found this project interesting, let's connect!
 
-📩 [https://www.linkedin.com/in/mohamed-amine-boukriba-16052017a/](#)  
-📧 [boukriba.mohamed.amine@gmail.com](#)  
+📩 [My Linkedin Account](https://www.linkedin.com/in/mohamed-amine-boukriba-16052017a/)  
+📧 [My Email Address](boukriba.mohamed.amine@gmail.com)  
 
 ## ⭐ Give It a Star!
 
