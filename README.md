@@ -1,4 +1,4 @@
-# DataNest - Amazon Best Sellers Analytics Dashboard
+# DataNest – E-commerce Analytics Dashboard
 
 ## 🚀 Project Overview
 
